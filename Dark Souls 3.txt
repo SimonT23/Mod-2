@@ -1,0 +1,66 @@
+﻿The Dark souls merchant
+Informational
+Website focus:
+* Teach newer and older player about lore 
+* Ways to fight against enemies 
+* Providing information on dark souls
+Website purpose:
+* To help player by giving them tips and trick for boss fight help them with builds for pvp and help player understand the rich and crazy story about dark souls 3
+Target Audience 
+* Target Audience are player that are struggling with bosses and player that are not sure what to build or what class suit them and for new and old player that what to know the lore of the world and enemies they are encountering 
+Two similar website:
+https://darksouls3.wiki.fextralife.com/Dark+Souls+3+Wiki
+* Website lists all Weapons and bosses in game and DLC
+* Helps players traverse the area there in and where to locate new and more powerful weapons spells and items
+* Explains how to get all 4 different endings 
+https://darksouls.fandom.com/wiki/Dark_Souls_III
+* Website lists all Weapons and bosses in game and DLC
+* Helps players traverse the area there in and where to locate new and more powerful weapons spells and items
+* Has discord allowing players to talk
+Website goals:
+Primary
+* Help with bosses and learn there patterns  
+* Help players with different enemies and how to fight them
+* To teach player new and old about the crazy lore of the dark souls 3 world and why its like that
+ Secondary
+*   Help players find what weapon they want how to use them
+* Help with spell how to use them 
+* To teach player which area is currently a hot zone for pvp
+Metrics for Website:
+* Number of visiter
+* Amount of people who have use the page 
+* How long they stay 
+* What category they use the most 
+* How many user look at the updates 
+Analytics tools
+*  (https://analytics.google.com/analytics/web/provision/#/provision)
+* (https://gtmetrix.com)
+Website Content Image Tools:
+* Google images (https://www.google.com/imghp?hl=en&ogbl)
+* Dark Souls 3(https://darksouls3.wiki.fextralife.com/Dark+Souls+3+Wiki)
+Text tools
+* Textise (http://www.textise.net)
+Font size
+* Arial(Font style)
+Colors
+* Black(#000000)
+Accessibility
+* Easy layout for easier access
+* Big Font for easier reading and easier view
+Figma website setup
+* https://www.figma.com/file/ahWARze0W5U3o1FcV95Ddm/Untitled?node-id=0%3A1
+  
+
+Figma mockup
+* https://www.figma.com/file/21vBwx8QpB7rwfloCYUtKh/Untitled
+  
+
+Reason for Design
+* Make it fun and easy for people to navigate
+* Dark coloring to give the person a sense of being in the game its a website but make them feel like there still in the world of dark souls 3
+* The you will die in the middle of the nav bar is a stylistic choice and both to prepare players for the tough but amazing journey  there about to embark on and they will be seeing those word ALOT TRUST ME 
+* Add captivating photo to catch the player show them what awaits them from bosses to spells to cool and crazy Armor setups
+*  Text is clear and lets the user enjoy the info while also seeing the background
+Website Functions:
+* To teach player the basic and help them improve on there skill and knowledge on spells weapons and items 
+* Helps them learn to beat bosses and how to exploit their weakness to make fight easier but still experience the full battle
